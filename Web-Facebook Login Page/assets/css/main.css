@@ -118,7 +118,6 @@ body {
 
 .brd .btn
 {
-  
     width: 44%;
     height: 32px;
     margin-top: 2%;
@@ -131,6 +130,12 @@ body {
     border: 1px solid gray;
     border-radius: 4px;
 }
+.brd .btn:hover
+{
+    background-color: rgb(6, 236, 6);
+    transition: 0.5s;
+}
+
 .brd h3{
     display: flex;
     justify-content: center;
@@ -160,4 +165,13 @@ body {
 .the-end ul li{
     padding: 2%;
    
+}
+.gender
+{
+    margin-top: 2%;
+    border: 1px solid rgb(107, 106, 106);
+    width: 28%;
+    height: 34px;
+    border-radius: 3px;
+    text-align: center;
 }
