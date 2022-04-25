@@ -14,15 +14,15 @@ header {
     height: 90vh;
     background-color: rgb(61, 61, 194);
 }
-header .kit
-{
+
+header .kit {
     width: 40px;
     height: 40px;
     background-color: white;
     /* position: fixed; */
 }
-.kit .hgf
-{
+
+.kit .hgf {
     max-width: 90%;
     height: auto;
     animation: 2s infinite linear;
@@ -116,8 +116,8 @@ nav .nav-container span a {
     cursor: pointer;
     margin: 0 1%;
 }
-.ntb:hover
-{
+
+.ntb:hover {
     background-color: rgb(6, 255, 6);
 }
 
@@ -159,33 +159,12 @@ header .img {
     margin-top: -155px;
 }
 
-.two {
-    width: 100%;
-    height: 35vh;
-    background-color: black;
-}
 
-.circ {
-    width: 90%;
-    height: 15vh;
-    margin: 0 4%;
-
-    padding-top: 62px;
-}
-
-.two .circ .circle {
-    width: 35px;
-    height: 120px;
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-
-}
 
 .three {
     width: 100%;
     height: 86vh;
-
+    background-color: #cdd1d8;
 }
 
 .three .inform {
@@ -388,77 +367,76 @@ header .img {
     background-color: #363d47;
 }
 
-.zx .bn .ls
-{
+.zx .bn .ls {
     width: 100%;
     height: 30vh;
-    
+
 }
-.zx  .bn .ls 
-{
+
+.zx .bn .ls {
 
     margin: 0 4%;
     width: 90%;
     height: 75vh;
-    
+
     display: flex;
     flex-wrap: wrap;
 }
-.zx  .bn .ls .ol
-{
+
+.zx .bn .ls .ol {
     margin-top: 220px;
     width: 50%;
     height: 20vh;
     padding-top: 3%;
 }
-.ol .ar
-{
+
+.ol .ar {
     width: 55px;
     height: 55px;
     margin-left: 3%;
     margin-top: 6%;
     background-color: green;
-    border:  1px solid green;
+    border: 1px solid green;
     border-radius: 28px;
 }
- .ol .gh
-{
+
+.ol .gh {
     margin-left: 0%;
     margin-top: -8%;
     width: 88%;
     height: 10vh;
     float: right;
-    
+
 }
-.ar i
-{
+
+.ar i {
     margin-left: 39%;
     margin-top: 31%;
     color: white;
 }
-.gh .ph
-{
+
+.gh .ph {
     padding-top: 1%;
 }
-.gh h3
-{
+
+.gh h3 {
     color: white;
     font-size: 19px;
     font-family: sans-serif;
 }
-.gh p
-{
+
+.gh p {
     color: rgb(211, 205, 205);
     font-size: 15px;
 }
-.zx .po
-{
+
+.zx .po {
     width: 100%;
     height: 50vh;
-    
+
 }
-.zx .po .btn
-{
+
+.zx .po .btn {
     width: 75px;
     height: 25px;
     margin-left: 180px;
@@ -466,21 +444,21 @@ header .img {
     border-radius: 12px;
     border: 1px solid rgb(212, 208, 208);
 }
-.po h2
-{
+
+.po h2 {
     text-align: center;
     color: white;
     padding-top: 1%;
     font-size: 35px;
 }
-.po p
-{
+
+.po p {
     padding-top: 1%;
     text-align: center;
     color: rgb(211, 205, 205);
 }
-.po .nhj
-{
+
+.po .nhj {
     width: 90px;
     height: 42px;
     margin-left: 740px;
@@ -488,166 +466,396 @@ header .img {
     background-color: rgb(9, 224, 9);
     border-radius: 12px;
 }
-.po .nhj a
-{
+
+.po .nhj a {
     text-decoration: none;
     color: white;
 }
-.po .nhj:hover
-{
+
+.po .nhj:hover {
     background-color: rgb(6, 255, 6);
 }
-.six
-{
+
+.six {
     width: 100%;
     height: 50vh;
-    background-color:  #ffffff;
-    
+    background-color: #ffffff;
+
 }
-.six .six-menu
-{
-    
+
+.six .six-menu {
+
     width: 90%;
     height: 50vh;
     margin: 0 4%;
     display: flex;
     flex-wrap: wrap;
 }
-.six .six-menu .google
-{
+
+.six .six-menu .google {
     padding-top: 4%;
     width: 50%;
     height: 65%;
-    
+
 }
-.six .six-menu .insta
-{
+
+.six .six-menu .insta {
     padding-top: 4%;
     width: 50%;
     height: 65%;
-    
+
 }
-.cvb
-{
+
+.cvb {
     font-size: 55px;
     color: rgb(209, 208, 208);
 }
-.cvp
-{
+
+.cvp {
     font-size: 55px;
     color: rgb(209, 208, 208);
     font-style: italic;
 }
- .one-p
-{
+
+.one-p {
     padding-top: 2%;
     font-size: 17px;
     color: rgb(35, 35, 240);
     font-family: Arial, Helvetica, sans-serif;
 }
- .two-p
-{
+
+.two-p {
     padding-top: 1%;
     font-size: 20px;
     color: rgb(77, 76, 76);
 }
-.dfg
-{
+
+.dfg {
     /* padding-top: 25%; */
     width: 90%;
     height: 25vh;
-    
+
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.dfg .gfd 
-{
+
+.dfg .gfd {
     width: 48%;
     height: 25vh;
-    background-color: rgb(240 , 240, 233);
+    background-color: rgb(240, 240, 233);
     border-radius: 12px;
 }
-.dfg .gfd .cx
-{
+
+.dfg .gfd .cx {
     width: 70px;
     height: 70px;
     margin-left: 3%;
     margin-top: 10%;
     background-color: blue;
-    border:  1px solid blue;
+    border: 1px solid blue;
     border-radius: 35px;
 }
-.cx i
-{
+
+.cx i {
     margin-left: 33%;
     margin-top: 39%;
     font-size: 25px;
     color: white;
 }
-.dfg .gfd h3
-{
+
+.dfg .gfd h3 {
     margin-left: 100px;
     color: rgb(35, 35, 240);
     font-size: 30px;
 }
-.dfg .gfd p
-{
+
+.dfg .gfd p {
     margin-left: 100px;
     color: rgb(51, 51, 53);
     font-size: 15px;
 }
-.dfg .rfv
-{
-    
+
+.dfg .rfv {
+
     width: 48%;
     height: 25vh;
     background-color: rgb(240, 240, 233);
     border-radius: 12px;
 }
-.dfg .rfv:hover
-{
-    
+
+.dfg .rfv:hover {
+
     background-color: rgb(240, 240, 233);
     border-radius: 12px;
 }
-.dfg .rfv  .lk
-{
+
+.dfg .rfv .lk {
     width: 70px;
     height: 70px;
     margin-left: 3%;
     margin-top: 10%;
     background-color: darkmagenta;
-    border:  1px solid darkmagenta;
+    border: 1px solid darkmagenta;
     border-radius: 35px;
 }
-.lk i
-{
+
+.lk i {
     margin-left: 33%;
     margin-top: 39%;
     font-size: 25px;
     color: white;
 }
-.dfg .rfv h3
-{
+
+.dfg .rfv h3 {
     margin-left: 100px;
     color: rgb(35, 35, 240);
     font-size: 30px;
 }
-.dfg .rfv p
-{
+
+.dfg .rfv p {
     margin-left: 100px;
     color: rgb(51, 51, 53);
     font-size: 15px;
 }
-.seven
-{
+
+.seven {
     width: 100%;
-    height: 60vh;
-    background-color: #d8d8d8;
+    height: 30vh;
+    background-color: #e9e9e9;
 }
 
+.seven .end-begin {
+    padding-top: 5%;
+    width: 100%;
+    height: 30vh;
+
+}
+
+.end-begin .the {
+    width: 90%;
+    height: 10vh;
+
+    margin: 0 4%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.the .yo {
+    width: 50%;
+    height: 10vh;
+
+}
+
+.the .sa {
+    padding-top: 2%;
+    width: 50%;
+    height: 10vh;
+    padding-left: 350px;
+
+}
+
+.end-begin .the .yo h3 {
+    color: #363d47;
+    font-size: 25px;
+}
+
+.end-begin .the .yo p {
+    padding-top: 1%;
+    color: #656d79;
+    font-size: 20px;
+}
+
+.the .sa .ton {
+    width: 110px;
+    height: 45px;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.the .sa .ton:hover {
+    background-color: rgb(33, 33, 252);
+    transition: 0.5s;
+}
+
+.the .sa .not {
+    width: 110px;
+    height: 45px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.eight {
+    width: 100%;
+    height: 40vh;
+
+    padding-top: 2%;
+}
+
+.eight .end-menu {
+    width: 90%;
+    height: 35vh;
+    margin: 0 4%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.eight .end-menu .link {
+    width: 20%;
+    height: 35vh;
+
+}
+
+.end-menu .link h4 {
+    font-size: 20px;
+    color: #656d79;
+}
+
+.end-menu .link p {
+    padding-top: 1%;
+    color: #656d79;
+    font-size: 17px;
+}
+
+.end-menu .link a i {
+    padding-top: 5%;
+    font-size: 20px;
+    color: #656d79;
+}
+
+.eight .end-menu .ink {
+    width: 20%;
+    height: 35vh;
+
+    text-align: center;
+}
+
+.eight .end-menu .ink ul {
+    padding-top: 2%;
+    color: #363d47;
+    font-size: 17px;
+}
+
+.eight .end-menu .ink ul li {
+    padding-top: 2%;
+    color: #656d79;
+    font-size: 13px;
+}
+
+footer {
+    width: 100%;
+    height: 10vh;
+
+}
+
+footer .vb {
+    width: 85%;
+    height: 10vh;
+
+    margin: 0 4%;
+}
+
+footer .vb .df {
+    padding-top: 2%;
+    color: #656d79;
+    font-size: 16px;
+    float: left;
+}
+
+footer .vb .fd {
+    padding-top: 2%;
+    color: #656d79;
+    font-size: 16px;
+    float: right;
+}
+
+.two {
+    width: 100%;
+    height: 35vh;
+
+    padding-top: 40px;
+}
+
+.circ {
+    width: 90%;
+    height: 30vh;
+    margin: 0 4%;
+    display: flex;
+    flex-wrap: wrap;
 
 
+}
 
+.two .circ .circle {
+    width: 30%;
+    height: 30vh;
 
+    padding-top: 2%;
+}
+
+.two .circ .circle .one {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(45, 45, 189);
+    border: 1px solid rgb(45, 45, 189);
+    margin: 0 35%;
+    border-radius: 35px;
+    padding-top: 1%;
+}
+
+.two .circ .circle .eno {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(45, 45, 189);
+    border: 1px solid rgb(45, 45, 189);
+    margin: 0 35%;
+    border-radius: 35px;
+    padding-top: 1%;
+}
+
+.two .circ .circle .neo {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(45, 45, 189);
+    border: 1px solid rgb(45, 45, 189);
+    margin: 0 35%;
+    border-radius: 35px;
+    padding-top: 1%;
+}
+
+.circ .circle h2 {
+    color: #363d47;
+    text-align: center;
+}
+
+.circ .circle p {
+    color: #656d79;
+    text-align: center;
+}
+
+.two .circ .circle .one i {
+    margin-left: 25px;
+    padding-top: 24px;
+    font-size: 24px;
+    color: white;
+}
+
+.two .circ .circle .eno i {
+    margin-left: 28px;
+    padding-top: 22px;
+    font-size: 20px;
+    color: white;
+}
+
+.two .circ .circle .neo i {
+    margin-left: 25px;
+    padding-top: 22px;
+    font-size: 24px;
+    color: white;
+}
